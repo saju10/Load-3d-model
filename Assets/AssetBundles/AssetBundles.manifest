@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2204457532
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sajucube
+      Dependencies: {}
+    Info_1:
+      Name: aa
+      Dependencies: {}

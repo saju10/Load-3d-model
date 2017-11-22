@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2911940766
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8acdbd08bd9ed840672c4a5f81056f52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- G:/Unity/Unity Project/Mobile/Load 3d Model/AssetBundles/Android/material-bundle
